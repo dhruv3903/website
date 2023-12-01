@@ -1,0 +1,132 @@
+#header {
+    background: linear-gradient(to right, rgb(0, 153, 230), rgb(0, 102, 153));
+
+}
+
+#header .container-fluid {
+    padding-left: 0px;
+}
+
+#header ul li a {
+    color: white
+}
+
+#header img {
+    width: 100px;
+    box-shadow: 10px 10px black;
+}
+
+#header i {
+    color: white;
+    font-size: 30px;
+}
+
+#banner {
+    background: linear-gradient(to right, rgb(0, 153, 230), rgb(0, 102, 153));
+}
+
+#banner #img-banner {
+    width: 200px;
+    border-radius: 50%;
+}
+#banner p {
+    text-align: justify;
+    color:white
+}
+
+#banner h4 {
+    text-align: center;
+    font-family: 'Bruno Ace', cursive;
+    padding-top: 20px;
+    
+}
+#banner #border{
+    width:100%;
+}
+#service h2{
+    text-align: center;
+    font-family: 'Bruno Ace', cursive;
+    padding-top: 30px;
+
+}
+#service h4{
+    margin: 20px 0px;
+}
+#service p{
+    text-align: justify;
+    font-family: 'Lobster', cursive;
+}
+#service img{
+    width: 100px;
+}
+#service{
+    padding-bottom: 30px;
+}
+#reviews img{
+    width:100px;
+    border-radius: 50%;
+}
+#reviews h2{
+    text-align: center;
+    font-family: 'Bruno Ace', cursive;
+    padding: 30px 0px;
+}
+#reviews p span i{
+    font-size: 20px;
+}
+#reviews p{
+    text-align: justify;
+    margin: 20px 0px;
+}
+#reviews h5{
+    padding-bottom: 30px;
+}
+#footer {
+    background: linear-gradient(to right, rgb(0, 153, 230), rgb(0, 102, 153));
+}
+
+#footer img {
+    width: 100px;
+    margin-bottom: 20px;
+    padding-top: 30px;
+}
+
+#footer table tr {
+    display: flex;
+}
+
+#footer h2 {
+    font-family: 'Bruno Ace', cursive;
+    padding-top: 30px;
+}
+
+#footer i {
+    font-size: 30px;
+    color: white
+}
+
+#footer p {
+    color: white;
+    text-align: justify;
+
+}
+
+#footer td p {
+    margin-left: 10px;
+}
+
+#footer a img {
+    width: 50px;
+}
+#footer #border2{
+    width:100%;
+    padding-top: 0px;
+}
+#arrow a i{
+    position:absolute;
+    top:1700px;
+    left:1280px;
+    color: black;
+    font-size: 30px;
+    border: 5px solid black;
+}

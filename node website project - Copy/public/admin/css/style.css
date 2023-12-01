@@ -1,0 +1,38 @@
+#login{
+    display:flex;
+    align-items:center;
+    height:600px;
+}
+#login h2{
+    text-align: center;
+}
+#header{
+    background: linear-gradient(rgb(43,108,211),rgb(11,63,146));
+    padding: 15px 0px;
+}
+#header h2{
+    color: white;
+}
+#header button{
+    float: right;
+}
+#footer{
+    background: linear-gradient(rgb(43,108,211),rgb(11,63,146));
+    padding: 15px 0px;
+}
+#footer h2{
+    color:white;
+    text-align: center;
+}
+#mid img{
+    width: 60px;
+}
+#mid h2{
+    text-align: center;
+}
+#mid .bi-pencil{
+    font-size: 20px;
+}
+#mid table tr td{
+    font-size: 12px;
+}
